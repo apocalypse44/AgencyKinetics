@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9bc7647.css",
+    "main.js": "/static/js/main.96c4a145.js",
+    "static/js/830.c733e581.chunk.js": "/static/js/830.c733e581.chunk.js",
+    "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/agencyKineticsLogo.svg": "/static/media/agencyKineticsLogo.5414bcd708793e9ddba10d98e07a450e.svg",
+    "static/media/logoAK.svg": "/static/media/logoAK.5414bcd708793e9ddba10d98e07a450e.svg",
+    "static/media/brand-icons.woff": "/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/brand-icons.woff2": "/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/signup.svg": "/static/media/signup.81774a9f6fffbabebf752a0b6ef79833.svg",
+    "static/media/icons.woff": "/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/login.png": "/static/media/login.53607d346a3634bae24a.png",
+    "static/media/icons.woff2": "/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/agencyKinetics.jpg": "/static/media/agencyKinetics.d16b1745c4e62f3b42b3.jpg",
+    "static/media/outline-icons.woff": "/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/empty-folder.png": "/static/media/empty-folder.ebf4718560a0e378f739.png",
+    "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "static/media/redux.cjs": "/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "static/media/teamIcon.svg": "/static/media/teamIcon.277b078b6cccffa737dcae0bed2f2cdb.svg",
+    "index.html": "/index.html",
+    "main.f9bc7647.css.map": "/static/css/main.f9bc7647.css.map",
+    "main.96c4a145.js.map": "/static/js/main.96c4a145.js.map",
+    "830.c733e581.chunk.js.map": "/static/js/830.c733e581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9bc7647.css",
+    "static/js/main.96c4a145.js"
+  ]
+}
